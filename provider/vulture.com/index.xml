@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vulture.com on </title>
+    <link>/provider/vulture.com/</link>
+    <description>Recent content in vulture.com on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 09 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/provider/vulture.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Zombies on the Walls: Why Does So Much New Abstraction Look the Same? - Slideshow - Vulture</title>
+      <link>/post/vulture.com/why-new-abstract-paintings-look-the-same/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/vulture.com/why-new-abstract-paintings-look-the-same/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
