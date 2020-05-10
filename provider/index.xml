@@ -28,5 +28,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>theatlantic.com</title>
+      <link>/provider/theatlantic.com/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/provider/theatlantic.com/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>a16z.com</title>
+      <link>/provider/a16z.com/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/provider/a16z.com/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
