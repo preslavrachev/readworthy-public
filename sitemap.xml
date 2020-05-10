@@ -58,6 +58,16 @@
   </url>
   
   <url>
+    <loc>/provider/getpocket.com/</loc>
+    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/getpocket.com/struggling-to-be-content/</loc>
+    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
   </url>
   
@@ -67,6 +77,10 @@
   
   <url>
     <loc>/authors/hugo-authors/</loc>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
   </url>
   
 </urlset>
